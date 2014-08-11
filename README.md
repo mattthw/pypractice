@@ -7,6 +7,6 @@ This is a repository used for storing (in a portfolio-esque manner) my python pr
 - Python 2.7.x
   1. **strstore.py:** First python code. I made this to learn some basic python functionality
 
----
+###Links
 
-[Bluecabod](https://github.com/bluecabod)
+- [Bluecabod](https://github.com/bluecabod)
