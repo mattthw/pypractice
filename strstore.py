@@ -17,7 +17,7 @@ class Storage(object):
 
 class Dialogue(object):
 
-    def welcome(self):
+def welcome(self):
         os.system('cls' if os.name == 'nt' else 'clear')
         print 'Hello. Plase select an option.'
         message = {1: 'add new text',2: 'view text',3: 'exit'}
