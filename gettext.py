@@ -1,19 +1,18 @@
-#1/usr/bin/env pyhton
+#!/usr/bin/env pyhton
 #imports
-import sys
 
 class fileOperations(object):
 
     def readFile(self, f):
         for x in f:
-            print x
+            print x,
 
     def makeList(self, f):
         global samp_list
         samp_list = f.readlines()
-        """Readlines is already a list. This means I can
-        simply make my global list equal to the data of
-        variable f."""
+        # Readlines is already a list. This means I can
+        # simply make my global list equal to the data of
+        # variable f.
 
 #GLOBAL SECTION
 
