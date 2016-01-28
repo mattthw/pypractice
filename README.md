@@ -10,8 +10,3 @@ This is a repository used for storing (in a portfolio-esque manner) my python pr
     - **If you use secondary authentication** for your Google account you will need to generate an application specific key for this.
     - gmusicapi: http://unofficial-google-music-api.readthedocs.org/en/latest/index.html
     - This will output a file called gmusiclibrary in .csv format in the same directory
-  
-
-###Links
-
-- [Bluecabod](https://github.com/bluecabod)
