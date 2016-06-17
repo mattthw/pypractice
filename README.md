@@ -1,6 +1,4 @@
-##Bluecabod's Projects for Practicing Python
-
-This is a repository used for storing (in a portfolio-esque manner) my python projects as I learn the language. Feel free to comment on a recent project's commit if you think it will help me.
+Practicing Python
 
 ###Projects Included
 
